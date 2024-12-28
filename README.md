@@ -144,8 +144,17 @@ Serial.println(distanceCM);
 ThingSpeak.writeField(myChannelField, ChannelField, distanceCM, myWriteAPIKey);
 ```
 # CIRCUIT DIAGRAM:
+
+
+
+
+
 ![386927419-b7243f44-e3c0-42d4-8a43-197a2e24b60d](https://github.com/user-attachments/assets/12156fbc-c586-4298-ad72-e4b7f450c92c)
 # OUTPUT:
+
+
+
+
 ![386927471-8352b11f-d0bd-4cfc-b42b-5fcf11ac8fcd](https://github.com/user-attachments/assets/e5a0806f-9aa0-45d3-bf32-d6e0393a5cb6)
 
 # RESULT:
