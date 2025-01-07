@@ -1,3 +1,5 @@
+#name:keerthana T
+#reg.no:24002841
 # Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
@@ -99,8 +101,8 @@ Prototype and build IoT systems without setting up servers or developing web sof
 ```
 #include "ThingSpeak.h"
 #include <WiFi.h>
-char ssid[] = "Galaxy F55"; //SSID
-char pass[] = "vinolia12345"; // Password
+char ssid[] = "Oppo A79"; //SSID
+char pass[] = "keetae95"; // Password
 const int trigger = 25;
 const int echo = 26;
 long T;
